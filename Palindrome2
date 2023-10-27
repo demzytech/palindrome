@@ -1,0 +1,6 @@
+step 1 create a variable to store the palidrome word
+step 2 go through each of the character in the word
+step 3 compare the first character to the last character
+step 4 if the first character is = to the last character repeat step 3
+step 5 if all the first and last characters are the same return is palidrome else.
+Write a javasvript program that takes a number as a parameter and true the parameter and prints number from 1 to the inputed number
